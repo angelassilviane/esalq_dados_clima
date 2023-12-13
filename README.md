@@ -1,27 +1,28 @@
 # Dados climáticos do INMET: 01/01/2008 a 31/12/2022
 
-## * Estações do INMET: 
+# Cidades: 
 
-##    1- Paraná - TO (A010); 
+# 1- Paraná - TO (A010); 
 
-##    2- Imperatriz - MA (A225);
+# 2- Imperatriz - MA (A225);
 
-##    3- Bom Jesus do Piauí - PI (A326);
+# 3- Bom Jesus do Piauí - PI (A326);
 
-##    4- Luíz Eduardo Magalhães - BA (A404);
+# 4- Luíz Eduardo Magalhães - BA (A404);
 
-##    5- Casa Branca - SP (A738).
+# 5- Casa Branca - SP (A738).
 
-## * Variáveis climáticas:
 
-##    Tmax: Em graus Celsius (ºC);
+# Variáveis climáticas:
 
-##    Tmin: Em graus Celsius (ºC);
+# 1- Tmax (ºC);
 
-##    URmax: Umidade relativa (%);
+# 2- Tmin (ºC);
 
-##    URmin: Umidade relativa (%);
+# 3- URmax (%);
 
-##    u: Velocidade do vento em metros por segundo (m/s), medido a 10 metros de altura;
+# 4- URmin (%);
+
+# 5- vento (m s-1);
     
-##    Rad: Radiação solar global em Kilojoules por hora (kJ/h).
+# 6- Rad (kJ m-2 dia-1).
