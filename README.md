@@ -2,7 +2,7 @@
 
 Resultados do trabalho de conclusão de curso do aluno Marcos Alexandre Leoni Maciel de Goes  | **e-mail**: marcos.goes@usp.br
 
-Dados climáticos do INMET: 01/01/2008 a 31/12/2022
+Período: 01/01/2008 a 31/12/2022
 
 Cidades do estudo: 
 
@@ -29,7 +29,7 @@ Autores:
 
 Repositório com dados climáticos do INMET para a região do MATOPIBA. 
 
-Dados climáticos do INMET: 01/01/1961 a 31/12/2020.
+Período: 01/01/1961 a 31/12/2020.
 
 Dados para estudo das normais climatológicas (anos normais, úmidos e secos).
 
