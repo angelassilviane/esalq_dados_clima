@@ -24,4 +24,19 @@ Autores:
 
 * Doutoranda: Ângela Silviane Moura Cunha | **e-mail**: angelasilviane@usp.br
 
+
 # PROJETO 2: 
+
+Repositório com dados climáticos do INMET para a região do MATOPIBA. 
+
+Dados climáticos do INMET: 01/01/1961 a 31/12/2020.
+
+Dados para estudo das normais climatológicas (anos normais, úmidos e secos).
+
+Autores:
+
+* Profª. Drª. Patricia Angélica Alves Marques | **e-mail**: paamarques@usp.br
+
+* Prof. Dr. Carlos Dias Maciel | carlos.maciel@usp.br  
+
+* Doutoranda: Ângela Silviane Moura Cunha | **e-mail**: angelasilviane@usp.br
