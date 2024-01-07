@@ -18,7 +18,7 @@ Cidades do estudo:
 
 Variáveis climáticas: Tmax (ºC), Tmin (ºC), URmax (%), URmin (%), vento (m s-1), Rad (kJ m-2 dia-1).
 
-# Autores:
+Autores:
 
 * Profª. Drª. Patricia Angélica Alves Marques | **e-mail**: paamarques@usp.br 
 
