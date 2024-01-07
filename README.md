@@ -1,36 +1,27 @@
-# Dados climáticos do INMET: 01/01/2008 a 31/12/2022
+# PROJETO 1: 
 
-## Cidades: 
+Resultados do trabalho de conclusão de curso do aluno Marcos Alexandre Leoni Maciel de Goes  | **e-mail**: marcos.goes@usp.br
 
-    1- Paraná - TO (A010); 
+Dados climáticos do INMET: 01/01/2008 a 31/12/2022
 
-    2- Imperatriz - MA (A225);
+Cidades do estudo: 
 
-    3- Bom Jesus do Piauí - PI (A326);
+1- Paraná - TO (A010); 
 
-    4- Luíz Eduardo Magalhães - BA (A404);
+2- Imperatriz - MA (A225);
 
-    5- Casa Branca - SP (A738).
+3- Bom Jesus do Piauí - PI (A326);
 
+4- Luíz Eduardo Magalhães - BA (A404);
 
-## Variáveis climáticas:
+5- Casa Branca - SP (A738).
 
-    1- Tmax (ºC);
+Variáveis climáticas: Tmax (ºC), Tmin (ºC), URmax (%), URmin (%), vento (m s-1), Rad (kJ m-2 dia-1).
 
-    2- Tmin (ºC);
-
-    3- URmax (%);
-
-    4- URmin (%);
-
-    5- vento (m s-1);
-    
-    6- Rad (kJ m-2 dia-1).
-
-## Autores:
+# Autores:
 
 * Profª. Drª. Patricia Angélica Alves Marques | **e-mail**: paamarques@usp.br 
 
 * Doutoranda: Ângela Silviane Moura Cunha | **e-mail**: angelasilviane@usp.br
 
-* Resultados do trabalho de conclusão de curso do aluno Marcos Alexandre Leoni Maciel de Goes  | **e-mail**: marcos.goes@usp.br
+# PROJETO 2: 
