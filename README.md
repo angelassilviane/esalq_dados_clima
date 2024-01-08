@@ -1,6 +1,6 @@
 #
 # PROJETO 1: 
-#
+
 Resultados do trabalho de conclusão de curso do aluno Marcos Alexandre Leoni Maciel de Goes  | **e-mail**: marcos.goes@usp.br
 
 Período: 01/01/2008 a 31/12/2022
@@ -27,7 +27,7 @@ Autores:
 
 #
 # PROJETO 2: 
-#
+
 Repositório com dados climáticos do INMET para a região do MATOPIBA. 
 
 Período: 01/01/1961 a 31/12/2020.
